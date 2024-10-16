@@ -1,0 +1,64 @@
+2024/10/15 13:06:40 [emerg] 1#1: invalid port in upstream "host.docker.internal:DOMAIN_PORT" in /etc/nginx/conf.d/http.conf:6
+2024/10/15 13:07:40 [emerg] 1#1: invalid port in upstream "host.docker.internal:DOMAIN_PORT" in /etc/nginx/conf.d/http.conf:6
+2024/10/15 13:08:40 [emerg] 1#1: invalid port in upstream "host.docker.internal:DOMAIN_PORT" in /etc/nginx/conf.d/http.conf:6
+2024/10/15 17:24:16 [emerg] 1#1: open() "/etc/letsencrypt/options-ssl-nginx.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/localhost.conf:21
+2024/10/15 17:24:16 [emerg] 1#1: open() "/etc/letsencrypt/options-ssl-nginx.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/localhost.conf:21
+2024/10/15 17:24:16 [emerg] 1#1: open() "/etc/letsencrypt/options-ssl-nginx.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/localhost.conf:21
+2024/10/15 17:24:17 [emerg] 1#1: open() "/etc/letsencrypt/options-ssl-nginx.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/localhost.conf:21
+2024/10/15 17:24:18 [emerg] 1#1: open() "/etc/letsencrypt/options-ssl-nginx.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/localhost.conf:21
+2024/10/15 17:24:20 [emerg] 1#1: open() "/etc/letsencrypt/options-ssl-nginx.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/localhost.conf:21
+2024/10/15 17:24:23 [emerg] 1#1: open() "/etc/letsencrypt/options-ssl-nginx.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/localhost.conf:21
+2024/10/15 17:24:30 [emerg] 1#1: open() "/etc/letsencrypt/options-ssl-nginx.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/localhost.conf:21
+2024/10/16 09:37:19 [emerg] 1#1: host not found in upstream "api.localhost" in /etc/nginx/conf.d/api.localhost.conf:5
+2024/10/16 09:37:20 [emerg] 1#1: host not found in upstream "api.localhost" in /etc/nginx/conf.d/api.localhost.conf:5
+2024/10/16 09:37:20 [emerg] 1#1: host not found in upstream "api.localhost" in /etc/nginx/conf.d/api.localhost.conf:5
+2024/10/16 09:37:21 [emerg] 1#1: host not found in upstream "api.localhost" in /etc/nginx/conf.d/api.localhost.conf:5
+2024/10/16 09:37:22 [emerg] 1#1: host not found in upstream "api.localhost" in /etc/nginx/conf.d/api.localhost.conf:5
+2024/10/16 09:37:24 [emerg] 1#1: host not found in upstream "api.localhost" in /etc/nginx/conf.d/api.localhost.conf:5
+2024/10/16 09:37:27 [emerg] 1#1: host not found in upstream "api.localhost" in /etc/nginx/conf.d/api.localhost.conf:5
+2024/10/16 09:37:34 [emerg] 1#1: host not found in upstream "api.localhost" in /etc/nginx/conf.d/api.localhost.conf:5
+2024/10/16 09:37:44 [emerg] 1#1: host not found in upstream "api.localhost" in /etc/nginx/conf.d/api.localhost.conf:5
+2024/10/16 09:37:44 [emerg] 1#1: host not found in upstream "api.localhost" in /etc/nginx/conf.d/api.localhost.conf:5
+2024/10/16 09:37:45 [emerg] 1#1: host not found in upstream "api.localhost" in /etc/nginx/conf.d/api.localhost.conf:5
+2024/10/16 09:37:45 [emerg] 1#1: host not found in upstream "api.localhost" in /etc/nginx/conf.d/api.localhost.conf:5
+2024/10/16 09:37:46 [emerg] 1#1: host not found in upstream "api.localhost" in /etc/nginx/conf.d/api.localhost.conf:5
+2024/10/16 09:37:48 [emerg] 1#1: host not found in upstream "api.localhost" in /etc/nginx/conf.d/api.localhost.conf:5
+2024/10/16 09:37:51 [emerg] 1#1: host not found in upstream "api.localhost" in /etc/nginx/conf.d/api.localhost.conf:5
+2024/10/16 09:37:58 [emerg] 1#1: host not found in upstream "api.localhost" in /etc/nginx/conf.d/api.localhost.conf:5
+2024/10/16 09:38:11 [emerg] 1#1: host not found in upstream "api.localhost" in /etc/nginx/conf.d/api.localhost.conf:5
+2024/10/16 18:00:45 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.65.1, server: api.localhost, request: "GET / HTTP/1.1", upstream: "http://192.168.65.254:8070/", host: "api.localhost"
+2024/10/16 18:00:46 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.65.1, server: api.localhost, request: "GET / HTTP/1.1", upstream: "http://192.168.65.254:8070/", host: "api.localhost"
+2024/10/16 18:00:47 [error] 22#22: *4 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.65.1, server: api.localhost, request: "GET / HTTP/1.1", upstream: "http://192.168.65.254:8070/", host: "api.localhost"
+2024/10/16 18:00:48 [error] 22#22: *4 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.65.1, server: api.localhost, request: "GET / HTTP/1.1", upstream: "http://192.168.65.254:8070/", host: "api.localhost"
+2024/10/16 18:00:48 [error] 22#22: *4 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.65.1, server: api.localhost, request: "GET / HTTP/1.1", upstream: "http://192.168.65.254:8070/", host: "api.localhost"
+2024/10/16 18:00:49 [error] 22#22: *4 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.65.1, server: api.localhost, request: "GET / HTTP/1.1", upstream: "http://192.168.65.254:8070/", host: "api.localhost"
+2024/10/16 18:00:49 [error] 22#22: *4 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.65.1, server: api.localhost, request: "GET / HTTP/1.1", upstream: "http://192.168.65.254:8070/", host: "api.localhost"
+2024/10/16 18:00:49 [error] 22#22: *4 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.65.1, server: api.localhost, request: "GET / HTTP/1.1", upstream: "http://192.168.65.254:8070/", host: "api.localhost"
+2024/10/16 18:00:49 [error] 22#22: *4 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.65.1, server: api.localhost, request: "GET / HTTP/1.1", upstream: "http://192.168.65.254:8070/", host: "api.localhost"
+2024/10/16 18:00:49 [error] 22#22: *4 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.65.1, server: api.localhost, request: "GET / HTTP/1.1", upstream: "http://192.168.65.254:8070/", host: "api.localhost"
+2024/10/16 18:00:50 [error] 22#22: *4 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.65.1, server: api.localhost, request: "GET / HTTP/1.1", upstream: "http://192.168.65.254:8070/", host: "api.localhost"
+2024/10/16 18:00:50 [error] 22#22: *4 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.65.1, server: api.localhost, request: "GET / HTTP/1.1", upstream: "http://192.168.65.254:8070/", host: "api.localhost"
+2024/10/16 18:00:50 [error] 22#22: *4 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.65.1, server: api.localhost, request: "GET / HTTP/1.1", upstream: "http://192.168.65.254:8070/", host: "api.localhost"
+2024/10/16 18:00:50 [error] 22#22: *4 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.65.1, server: api.localhost, request: "GET / HTTP/1.1", upstream: "http://192.168.65.254:8070/", host: "api.localhost"
+2024/10/16 18:00:50 [error] 22#22: *4 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.65.1, server: api.localhost, request: "GET / HTTP/1.1", upstream: "http://192.168.65.254:8070/", host: "api.localhost"
+2024/10/16 18:00:51 [error] 22#22: *4 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.65.1, server: api.localhost, request: "GET / HTTP/1.1", upstream: "http://192.168.65.254:8070/", host: "api.localhost"
+2024/10/16 18:00:51 [error] 22#22: *4 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.65.1, server: api.localhost, request: "GET / HTTP/1.1", upstream: "http://192.168.65.254:8070/", host: "api.localhost"
+2024/10/16 18:00:51 [error] 22#22: *4 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.65.1, server: api.localhost, request: "GET / HTTP/1.1", upstream: "http://192.168.65.254:8070/", host: "api.localhost"
+2024/10/16 18:00:51 [error] 22#22: *4 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.65.1, server: api.localhost, request: "GET / HTTP/1.1", upstream: "http://192.168.65.254:8070/", host: "api.localhost"
+2024/10/16 18:00:51 [error] 22#22: *4 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.65.1, server: api.localhost, request: "GET / HTTP/1.1", upstream: "http://192.168.65.254:8070/", host: "api.localhost"
+2024/10/16 18:00:51 [error] 22#22: *4 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.65.1, server: api.localhost, request: "GET / HTTP/1.1", upstream: "http://192.168.65.254:8070/", host: "api.localhost"
+2024/10/16 18:00:52 [error] 22#22: *24 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.65.1, server: api.localhost, request: "GET / HTTP/1.1", upstream: "http://192.168.65.254:8070/", host: "api.localhost"
+2024/10/16 18:00:53 [error] 22#22: *24 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.65.1, server: api.localhost, request: "GET / HTTP/1.1", upstream: "http://192.168.65.254:8070/", host: "api.localhost"
+2024/10/16 18:00:53 [error] 22#22: *24 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.65.1, server: api.localhost, request: "GET / HTTP/1.1", upstream: "http://192.168.65.254:8070/", host: "api.localhost"
+2024/10/16 18:00:53 [error] 22#22: *24 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.65.1, server: api.localhost, request: "GET / HTTP/1.1", upstream: "http://192.168.65.254:8070/", host: "api.localhost"
+2024/10/16 18:00:54 [error] 22#22: *24 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.65.1, server: api.localhost, request: "GET / HTTP/1.1", upstream: "http://192.168.65.254:8070/", host: "api.localhost"
+2024/10/16 18:00:54 [error] 22#22: *24 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.65.1, server: api.localhost, request: "GET / HTTP/1.1", upstream: "http://192.168.65.254:8070/", host: "api.localhost"
+2024/10/16 18:00:54 [error] 22#22: *24 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.65.1, server: api.localhost, request: "GET / HTTP/1.1", upstream: "http://192.168.65.254:8070/", host: "api.localhost"
+2024/10/16 18:00:54 [error] 22#22: *24 upstream prematurely closed connection while reading response header from upstream, client: 192.168.65.1, server: api.localhost, request: "GET / HTTP/1.1", upstream: "http://192.168.65.254:8070/", host: "api.localhost"
+2024/10/16 18:02:11 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.65.1, server: api.localhost, request: "GET / HTTP/1.1", upstream: "http://192.168.65.254:8070/", host: "api.localhost"
+2024/10/16 18:02:13 [error] 22#22: *3 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.65.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://192.168.65.254:8071/", host: "localhost"
+2024/10/16 18:02:14 [error] 22#22: *3 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.65.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://192.168.65.254:8071/", host: "localhost"
+2024/10/16 18:02:16 [error] 22#22: *3 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.65.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://192.168.65.254:8071/", host: "localhost"
+2024/10/16 18:05:45 [error] 22#22: *7 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.65.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://192.168.65.254:8071/", host: "localhost"
+2024/10/16 18:05:45 [error] 22#22: *7 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.65.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://192.168.65.254:8071/", host: "localhost"
+2024/10/16 18:05:46 [error] 22#22: *7 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.65.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://192.168.65.254:8071/", host: "localhost"
